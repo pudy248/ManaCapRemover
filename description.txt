@@ -1,0 +1,1 @@
+Did you know that in vanilla Terraria, it's not possible to exceed 400 mana with just equipment/accessory bonuses? This mod increases that limit to 10000, which is useful for mods which have overpowered armor sets or accessories.

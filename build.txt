@@ -1,0 +1,3 @@
+displayName = Mana Cap Remover
+author = pudy248
+version = 0.1
